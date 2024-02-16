@@ -19,21 +19,21 @@
 <a href="mailto:gui.bononomi@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-</div>
+
   
-<div align="center">
+
 <a href="[https://www.instagram.com](https://www.instagram.com/)">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
-</div>
 
-<div align="center">
+
+
 <a href="https://www.twitter.com">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
-</div>
+
   
-<div align="center">
+
 <a href="https://www.discord.com">
 <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
